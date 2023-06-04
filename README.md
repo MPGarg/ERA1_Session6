@@ -1,4 +1,4 @@
-## Assignment Session-3 Part-1
+## Assignment Session-6 Part-1
 
 Backpropagation for 3 layer Neural Network is explained in detail below.
 
